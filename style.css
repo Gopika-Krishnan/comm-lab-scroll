@@ -4,10 +4,10 @@ body {
 
 .block {
     height: 100px;
-    margin:20px;
+   
     width: 60%;
-    padding: 10%;
-     padding-right: 60%;
+   display: flex;
+  align-items: center;
     
 }
 
