@@ -2,14 +2,6 @@ body {
     margin: 0;
 }
 
-.block {
-    height: 100px;
-   
-    width: 60%;
-   display: flex;
-  align-items: center;
-    
-}
 
 .block-left {
     height: 100px;
